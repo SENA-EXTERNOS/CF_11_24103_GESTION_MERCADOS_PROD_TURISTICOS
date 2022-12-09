@@ -2,13 +2,19 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 27%
+    right: 65%
   &-2
+    animation: myAnim 7s ease 0s infinite normal forwards
+    position: absolute
+    top: 25%
+    right: 0%
+
+  &-3
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 35%
+    right: 16%
 
 
 @keyframes float1
@@ -17,3 +23,266 @@
 
   100%
     transform: translateY(0px)
+  
+
+@keyframes myAnim 
+	0% 
+		animation-timing-function: ease-out
+		transform: translateX(0)
+
+	75% 
+		opacity: 1
+	
+  85% 
+		opacity: 0.5
+
+	100% 
+		opacity: 0
+		transform: translateX(-150px)
+	
+.banner-interno__fondo
+  background-image: url("../assets/curso/portada/banner-interno.png") !important
+
+
+///////////////// Slider --------------------------------
+
+.slyderA_bg_01
+  background-image: url("../assets/curso/temas/bgr-1.png") 
+  background-size: cover
+  background-position: left top
+  background-repeat: no-repeat
+  border-radius: 30px !important
+
+.slyder-a__btn--sigt, .slyder-a__btn--atrs
+  background-color: #FECA2E
+  opacity: 1
+
+
+////////////// COLOR VIÑETAS -----------------------------
+
+.color-vineta
+  color: #FC4B52 !important
+
+
+.color-vineta1
+  color: #FC4B52 !important
+
+.centrar-texto
+  margin-top: 25% !important
+  @media (max-width: 500px)
+    margin-top: 0% !important
+
+.slyder-a__btn--sigt
+  @media (max-width: 500px)
+    width: 35px
+    height: 35px
+    margin-top: -20%
+    position: relative
+    margin-left: -25%
+
+.slyder-a__btn--atrs
+  @media (max-width: 500px)
+    width: 35px
+    height: 35px
+    margin-top: -20%
+    position: relative
+    margin-right: -25%
+
+//////////// Tarjeta avatar -------------------
+
+.tarjeta--verde
+  background-color: #A7E446
+  width: 280px
+  height: 350px
+  @media (max-width: 500px)
+    width: 250px
+    height: 350px
+    position: relative
+    left: 3%
+
+.tarjeta--amarilla
+  background-color: #FECA2E
+  width: 280px
+  height: 350px
+  @media (max-width: 500px)
+    width: 250px
+    height: 350px
+    position: relative
+    left: 3%
+
+///// Linea tiempo D --------------------------------------
+.linea-tiempo-d__item__content.tarjeta.tarjeta--gris, .linea-tiempo-d__item__number.tarjeta.tarjeta--gris
+  background-color: #DEE4F0
+
+.linea-tiempo-d__item.row.linea-tiempo-d__item--selected
+  .linea-tiempo-d__item__content.tarjeta.tarjeta--gris
+    background-color: #FEB7B9
+
+.linea-tiempo-d__item__number.tarjeta.tarjeta--gris 
+  background-color: #FEB7B9 !important
+
+.linea-tiempo-d__item__dots:after
+  border-left: 5px dotted #A7E446
+
+///// Custom acordeon A tipo A -------------------------------------- 
+
+.acordion__accion__btn--a
+  background-color: #A7E446 !important
+
+.acordion__activo
+  background-color: #FFF7E0 !important
+
+///////////////// Taps-b ---------------------
+
+.tabs-b
+  border-bottom: 5px solid #A7E446
+
+///////////////// Bloque texto G-----------------
+
+.bloque-texto-g1__img 
+  width: 60%
+  position: absolute
+  top: 0
+  left: 40%
+  bottom: 0
+  background-position: center
+  background-size: cover
+  @media (max-width: 500px)
+    height: 210px
+    width: 100%
+    left: 0%
+
+.bloque-texto-g1__texto 
+  position: relative
+  width: 70%
+  background-color: rgba(255, 255, 255, 0.95)
+  right: 25%
+  @media (max-width: 500px)
+    width: 100%
+    right: 0%
+
+//////////////// Pasos B ------------------
+
+.pasos-b__header__btn--left:hover
+  border-color: #FECA2E
+
+.pasos-b__header__btn--right:hover
+  border-color: #FECA2E
+  
+.pasos-b__header__item--before .pasos-b__header__item__line-container:before, .pasos-b__header__item--before .pasos-b__header__item__line-container:after 
+    background-color: #FECA2E
+
+.pasos-b__header__item--active .pasos-b__header__item__line-container:before 
+    background-color: #FECA2E
+
+.pasos-b__header__item--before .pasos-b__header__item__dot 
+    border-color: #FECA2E
+    background-color: #FECA2E
+
+.pasos-b__header__item__dot i 
+    color: #12263F
+
+//////////////////// Imagenes -----------------
+
+.img11-a-19-t4
+  position: relative
+  width: 80%
+  left: 15%
+  margin-top: 25%
+  @media (max-width: 500px)
+    width: 100%
+    left: 50%
+    margin-top: 0%
+
+.img20-tm4
+  position: relative
+  margin-top: -175%
+  left: 170%
+  @media (max-width: 500px)
+    margin-top: 0%
+    left: 0%
+
+
+////////////////// tarjetas --------------------
+
+.tarjeta--rosa1
+  background-color: #FFE4E5
+  border-top-left-radius: 20px
+  border-top-right-radius: 20px
+
+.tarjeta--rosa2
+  background-color: #FEC8CA
+
+.tarjeta--rosa3
+  background-color: #FFE4E5
+
+.tarjeta--rosa4
+  background-color: #FFE4E5
+  border-bottom-left-radius: 20px
+  border-bottom-right-radius: 20px
+
+.tarjeta--rosa5
+  background-color: #FF9CA0
+
+.tarjeta-azul2
+  background-color: #DFF7F9
+
+.tarjeta-gris2
+  background-color: #DEE4F0
+
+.tarjeta-amarilla2
+  background-color: #FFECB3
+
+.tarjeta--amarilla3
+  background-color: #FFF5D7
+
+.tarjeta--verde
+  background-color: #E9F8D0
+
+
+///////////// bloque texto b -------------------------
+
+.bloque-texto-b1
+  position: relative
+  &::before  
+    top: 0%
+    bottom: 0%
+    left: 0%
+    right: 50%
+    content: ''
+    display: block
+    position: absolute
+    background-color: #EEF1F7 !important
+
+  &__texto 
+      position: relative
+
+.bloque-texto-b:before 
+    content: ''
+    display: block
+    position: absolute
+    top: 65%
+    bottom: 0
+    left: 35%
+    right: 0
+
+.bloque-texto-b.color-acento-contenido:before 
+    background-color: #E9F8D0
+
+
+
+///////////// imagen infografica -----------
+
+.img-infografica__item
+  width: 6.5% !important
+
+////////////// cajon color ----------------
+
+.cajon.color-primario 
+    background-color: #FED2D3
+
+
+//////////////// TAPS A -----------------
+
+.tabs-a__tab
+  background-color: #E8E8E8
