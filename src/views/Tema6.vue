@@ -50,19 +50,19 @@
                 figure
                   img(src='@/assets/curso/temas/tema6/img2.svg', alt='') 
 
-              .tarjeta.tarjeta-azul2.p-3(x="8%" y="21%" numero="")
+              .tarjeta.tarjeta-azul3.p-3(x="8%" y="21%" numero="")
                 h4.mb-2 Las agencias de viaje
                 p En las agencias de viajes las tarifas de los paquetes o servicios ofrecidos tienen gran influencia en su tipología, más aún en las agencias que manejan costos y presupuestos tarifarios al por mayor y al detal, los cuales incluyen impuestos y puntos específicos para cada producto turístico. Las diferentes agencias, ya sean de viajes y turismo, de viajes operativos y de viajes mayoristas, tienen diferentes tarifas de venta, al igual que distintos públicos objetivo.
 
-              .tarjeta.tarjeta-azul2.p-3(x="92%" y="21%" numero="")
+              .tarjeta.tarjeta-azul3.p-3(x="92%" y="21%" numero="")
                 h4.mb-2 Las aerolíneas y empresas de transportes
                 p Tanto las aerolíneas como las empresas de transporte manejan diferentes clases tarifarias, que varían dependiendo de los aspectos a determinar. Primero, se determina la trayectoria de viaje para definir la clasificación de puesto, siendo las de clase económica o ejecutiva las más comunes en la actualidad. En el caso de los viajes aéreos o ferroviarios, se tienen en cuenta los viajes privados o #[strong charter], cuyas tarifas son más elevadas debido a su exclusividad. También se tienen presentes las comodidades brindadas y los servicios adicionales que alteran la tarifa, como temporadas vacacionales y eventos masivos.
 
-              .tarjeta.tarjeta-azul2.p-3(x="92%" y="92%" numero="")
+              .tarjeta.tarjeta-azul3.p-3(x="92%" y="92%" numero="")
                 h4.mb-2 Servicios de alimentación y restaurantes
                 p En estos servicios las tarifas varían dependiendo de diferentes factores; primordialmente, las certificaciones tienen un efecto en las tarifas de los establecimientos, además de la infraestructura y el servicio en sí (chefs profesionales, comidas tradicionales o exóticas, etc.). El enfoque por clase determina al público objetivo y la tarifa establecida por los prestadores del servicio.
 
-              .tarjeta.tarjeta-azul2.p-3(x="8%" y="92%" numero="")
+              .tarjeta.tarjeta-azul3.p-3(x="8%" y="92%" numero="")
                 h4.mb-2 Los destinos 
                 p Los destinos cumplen tendencias cuya implicación se encuentra derivada del posicionamiento del lugar; las tarifas de los lugares dependen de la estacionalidad, al igual que la moda del destino. La monetización de cada país y sus variaciones pueden afectar las tarifas establecidas en los productos turísticos, la cual suele medirse conforme a la valuación o devaluación del dólar. 
 
