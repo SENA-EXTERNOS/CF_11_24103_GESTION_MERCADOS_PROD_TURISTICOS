@@ -26,7 +26,7 @@
               figure
                 img(src='@/assets/curso/temas/tema3/img4.svg', alt='')
             .col-lg-7.mt-5
-              p El Informe Brundtland, también conocido mundialmente como Nuestro Futuro en común (Our Common Future), fue elaborado por la ONU (Organización de Naciones Unidas) con el fin de desarrollar estrategias económicas y ambientales que se pudiesen impartir a nivel mundial.
+              p El Informe Brundtland, también conocido mundialmente como Nuestro Futuro en común #[i (Our Common Future)], fue elaborado por la ONU (Organización de Naciones Unidas) con el fin de desarrollar estrategias económicas y ambientales que se pudiesen impartir a nivel mundial.
 
         .py-4.py-md-5(titulo="Estrategias Económicas" :icono="require('@/assets/curso/temas/tema3/img5.svg')")
           .row.justify-content-center

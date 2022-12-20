@@ -301,14 +301,14 @@ export default {
     {
       tema: 'Sostenibilidad turística',
       referencia:
-        'Romero Ogás, C. D. L. (2014). Propuesta de herramientas y metodología de gestión integrada para el desarrollo de acuerdos de producción sustentable (APS).',
+        'Romero Ogás, C. D. L. (2014). <i>Propuesta de herramientas y metodología de gestión integrada para el desarrollo de acuerdos de producción sustentable</i> (APS).',
       tipo: 'Documento',
       link: 'http://repositorio.udec.cl/handle/11594/4842',
     },
     {
       tema: 'Indicadores de gestión turística',
       referencia:
-        'Peral, F. J. B., Lozano, M. G., Casas, F. M. G., & Lozano-Oyola, M. (2010). Indicadores sintéticos de turismo sostenible: una aplicación para los destinos turísticos de Andalucía. Rect@: Revista Electrónica de Comunicaciones y Trabajos de ASEPUMA. (s.f.)',
+        'Peral, F. J. B., Lozano, M. G., Casas, F. M. G., & Lozano-Oyola, M. (2010). Indicadores sintéticos de turismo sostenible: una aplicación para los destinos turísticos de Andalucía. <i>Rect@: Revista Electrónica de Comunicaciones y Trabajos de ASEPUMA.</i> (s.f.)',
       tipo: 'Artículo',
       link: 'https://dialnet.unirioja.es/servlet/articulo?codigo=3674366',
     },
@@ -367,7 +367,7 @@ export default {
   referencias: [
     {
       referencia:
-        'Página web | Sostenibilidad.com. (s.f.). <i>¿SABES CUÁNDO NACE LA SOSTENIBILIDAD?</i> ',
+        'Página web | Sostenibilidad.com. (s.f.). <i>¿Sabes cuándo nace la sostenibilidad?</i> ',
       link:
         'https://www.sostenibilidad.com/desarrollo-sostenible/sabes-cuando-nace-la-sostenibilidad/?_adin=02021864894',
     },
@@ -388,15 +388,15 @@ export default {
     },
     {
       referencia:
-        'Página web | Ministerio de Comercio, Industria y Turismo. (2022). Normas técnicas sectoriales.',
+        'Página web | Ministerio de Comercio, Industria y Turismo. (2022). <i>Normas técnicas sectoriales.</i>',
       link:
         'https://www.mincit.gov.co/minturismo/calidad-y-desarrollo-sostenible/calidad-turistica/normas-tecnicas-sectoriales',
     },
     {
       referencia:
-        'Página web | Fontur. (2022). Marco Normativo del Sector Turismo.',
+        'Página web | Fontur. (2022). <i>Marco Normativo del Sector Turismo.</i>',
       link:
-        '. https://fontur.com.co/es/marco-normativo-del-sector-turismo?q=marco-normativo-del-sector-turismo',
+        'https://fontur.com.co/es/marco-normativo-del-sector-turismo?q=marco-normativo-del-sector-turismo',
     },
   ],
   creditos: {

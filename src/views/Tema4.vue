@@ -80,13 +80,18 @@
         li 
           i.fas.fa-square.color-vineta
           h4 Implementación de normas técnicas
+             
 
     .tarjeta.slyderA_bg_01.p-4.p-lg-5
       PasosB.color-acento-botones
         .row(titulo="").justify-content-center
           .col-lg-7.mt-lg-5.mb-3
             h4 Normas técnicas sectoriales
-            p Las NTS (Normas Técnicas Sectoriales) son un conjunto de requisitos y aspectos legales que los prestadores de servicio y las empresas del sector turístico buscan cumplir para obtener la certificación correspondiente. Estas NTS permiten garantizar la calidad y competitividad en el sector turístico. Algunos aspectos de las NTS para las agencias de viajes que se pueden encontrar en la página oficial del ministerio (https://www.mincit.gov.co/) son:
+            p Las NTS (Normas Técnicas Sectoriales) son un conjunto de requisitos y aspectos legales que los prestadores de servicio y las empresas del sector turístico buscan cumplir para obtener la certificación correspondiente. Estas NTS permiten garantizar la calidad y competitividad en el sector turístico. Algunos aspectos de las NTS para las agencias de viajes que se pueden encontrar en la página oficial del ministerio
+              a.boton--sm.color-secundario.me-3(href="https://www.mincit.gov.co/" target="_blank")
+                span (https://www.mincit.gov.co/).
+                i.fas.fa-link
+              | son:  
 
           .col-10.col-lg-5
             figure
@@ -185,10 +190,10 @@
             ul.lista-ul--color
               li 
                 i.fas.fa-check.color-vineta1
-                | Norma Técnica Sectorial NTS - AV 014. Requisitos para la operación de actividades de cabalgata en turismo de aventura. 
+                p Norma Técnica Sectorial NTS - AV 014. Requisitos para la operación de actividades de cabalgata en turismo de aventura. 
               li 
                 i.fas.fa-check.color-vineta1
-                | Norma Técnica Sectorial NTS - AV 015. Requisitos para la operación de actividades de canyoning en turismo de aventura.
+                p Norma Técnica Sectorial NTS - AV 015. Requisitos para la operación de actividades de #[i canyoning] en turismo de aventura.
 
           .col-10.col-lg-5
             figure
@@ -196,12 +201,16 @@
 
     separador
 
-    #t_4_2   
+    #t_4_3   
     .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
       h2 4.3 Normas técnicas de sostenibilidad 
 
     .row.my-5
-      p En la actualidad, las normas técnicas sectoriales relacionadas estrictamente con el turismo sostenible se encuentran publicadas en la página web del Ministerio de Comercio, Industria y Turismo #[strong (https://www.mincit.gov.co)]. Entre estas normas, aquellas que se relacionan con los atractivos y recursos naturales y culturales de un destino NTS son:
+      p En la actualidad, las normas técnicas sectoriales relacionadas estrictamente con el turismo sostenible se encuentran publicadas en la página web del Ministerio de Comercio, Industria y Turismo
+        a.boton--sm.color-secundario.me-3(href="https://www.mincit.gov.co/" target="_blank")
+          span (https://www.mincit.gov.co/).
+          i.fas.fa-link
+        | Entre estas normas, aquellas que se relacionan con los atractivos y recursos naturales y culturales de un destino NTS son:
 
     .row.my-5
       .col-lg-1

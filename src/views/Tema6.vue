@@ -56,7 +56,7 @@
 
               .tarjeta.tarjeta-azul3.p-3(x="92%" y="21%" numero="")
                 h4.mb-2 Las aerolíneas y empresas de transportes
-                p Tanto las aerolíneas como las empresas de transporte manejan diferentes clases tarifarias, que varían dependiendo de los aspectos a determinar. Primero, se determina la trayectoria de viaje para definir la clasificación de puesto, siendo las de clase económica o ejecutiva las más comunes en la actualidad. En el caso de los viajes aéreos o ferroviarios, se tienen en cuenta los viajes privados o #[strong charter], cuyas tarifas son más elevadas debido a su exclusividad. También se tienen presentes las comodidades brindadas y los servicios adicionales que alteran la tarifa, como temporadas vacacionales y eventos masivos.
+                p Tanto las aerolíneas como las empresas de transporte manejan diferentes clases tarifarias, que varían dependiendo de los aspectos a determinar. Primero, se determina la trayectoria de viaje para definir la clasificación de puesto, siendo las de clase económica o ejecutiva las más comunes en la actualidad. En el caso de los viajes aéreos o ferroviarios, se tienen en cuenta los viajes privados o #[i charter], cuyas tarifas son más elevadas debido a su exclusividad. También se tienen presentes las comodidades brindadas y los servicios adicionales que alteran la tarifa, como temporadas vacacionales y eventos masivos.
 
               .tarjeta.tarjeta-azul3.p-3(x="92%" y="92%" numero="")
                 h4.mb-2 Servicios de alimentación y restaurantes
