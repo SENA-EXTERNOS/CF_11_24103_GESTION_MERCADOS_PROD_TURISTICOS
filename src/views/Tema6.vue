@@ -86,7 +86,7 @@
 
       .col-lg-5
         figure
-          img(src='@/assets/curso/temas/tema6/img3.svg', alt='')      
+          img(src='@/assets/curso/temas/tema6/img3.png', alt='')      
 
     separador
 
