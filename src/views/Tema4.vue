@@ -87,15 +87,7 @@
         .row(titulo="").justify-content-center
           .col-lg-7.mt-lg-5.mb-3
             h4 Normas técnicas sectoriales
-            p Las NTS (Normas Técnicas Sectoriales) son un conjunto de requisitos y aspectos legales que los prestadores de servicio y las empresas del sector turístico buscan cumplir para obtener la certificación correspondiente. Estas NTS permiten garantizar la calidad y competitividad en el sector turístico. Algunos aspectos de las NTS para las agencias de viajes que se pueden encontrar en la página oficial del ministerio
-            .row
-              .col-lg-7
-                a.anexo.mb-4.mb-lg-0(href="https://www.mincit.gov.co/" target="_blank")
-                  .anexo__icono
-                    img(src="@/assets/template/icono-link.svg")
-                  .anexo__texto
-                    p (https://www.mincit.gov.co/).son:
-                    
+            p Las NTS (Normas Técnicas Sectoriales) son un conjunto de requisitos y aspectos legales que los prestadores de servicio y las empresas del sector turístico buscan cumplir para obtener la certificación correspondiente. Estas NTS permiten garantizar la calidad y competitividad en el sector turístico. Algunos aspectos de las NTS para las agencias de viajes que se pueden encontrar en la página oficial del ministerio <a href="https://www.mincit.gov.co/" target="_blank"> #[strong (https://www.mincit.gov.co/)] </a> son:                    
 
           .col-10.col-lg-5
             figure
@@ -210,15 +202,7 @@
       h2 4.3 Normas técnicas de sostenibilidad 
 
     .row.my-5
-      p En la actualidad, las normas técnicas sectoriales relacionadas estrictamente con el turismo sostenible se encuentran publicadas en la página web del Ministerio de Comercio, Industria y Turismo
-      .row
-        .col-lg-4
-          a.anexo.mb-4.mb-lg-0(href="https://www.mincit.gov.co/" target="_blank")
-            .anexo__icono
-              img(src="@/assets/template/icono-link.svg")
-            .anexo__texto
-              p (https://www.mincit.gov.co/).son:
-      | Entre estas normas, aquellas que se relacionan con los atractivos y recursos naturales y culturales de un destino NTS son:
+      p En la actualidad, las normas técnicas sectoriales relacionadas estrictamente con el turismo sostenible se encuentran publicadas en la página web del Ministerio de Comercio, Industria y Turismo <a href="https://www.mincit.gov.co/" target="_blank"> #[strong (https://www.mincit.gov.co/).] </a> Entre estas normas, aquellas que se relacionan con los atractivos y recursos naturales y culturales de un destino NTS son:
 
     .row.my-5
       .col-lg-1
