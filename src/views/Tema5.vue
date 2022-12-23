@@ -61,7 +61,7 @@
         p Para ampliar la información, lo invitamos a ver el #[strong Anexo 1 - Estructura de los indicadores de gestión turística.]
         .row
           .col-lg-6
-            a.anexo(:href="obtenerLink('/downloads/anexo_1_Estructura_de_los_indicadores_de_gestión_turística.pdf')" target="_blank")
+            a.anexo(:href="obtenerLink('/downloads/anexo_1.pdf')" target="_blank")
               .anexo__icono
                 img(src="@/assets/template/icono-pdf.svg")
               .anexo__texto
