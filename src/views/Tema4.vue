@@ -16,11 +16,7 @@
         figure
           img(src='@/assets/curso/temas/tema4/img1.svg', alt='')        
 
-    separador
-
-    #t_4_1    
-    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 4.1 Ley general del turismo
+    h2.my-5 Ley general del turismo
 
     .row.justify-content-center.my-5
       .col-lg-10
@@ -45,32 +41,37 @@
             ul.lista-ul--color
               li 
                 i.fas.fa-check
-                | Ley 2068 del 2020
+                | Ley 2068 del 2020.
               li 
                 i.fas.fa-check
-                | Ley 1558 de 2012
+                | Ley 1558 de 2012.
               li 
                 i.fas.fa-check
-                | Ley 1101 del 2006
+                | Ley 1101 del 2006.
               li 
                 i.fas.fa-check
-                | Ley 300 de 1996 
+                | Ley 300 de 1996.
 
           .row(titulo="Necesidades del sector turístico ")
             p Se puede decir que todas tienen enfoques diferentes o similares, pero cada una fue creada atendiendo a las necesidades del sector turístico en las fechas mencionadas, aportándole un proceso progresivo al país hasta la actualidad. 
           
           .row(titulo="Planificadores turísticos")
-            p En la actualidad el turismo se encuentra regido por la Ley 2068 del 2020, la cual ha tenido prudentes modificaciones respecto a los parámetros turísticos que deben abordar los planificadores turísticos o las personas del sector. En esta ley se establecen lineamientos y definiciones con terminología asociada al turismo, así como criterios de capacidad de carga y capacidades turísticas.          
+            p En la actualidad, el turismo se encuentra regido por la Ley 2068 del 2020, la cual ha tenido prudentes modificaciones respecto a los parámetros turísticos que deben abordar los planificadores turísticos o las personas del sector. En esta Ley se establecen lineamientos y definiciones con terminología asociada al turismo, así como criterios de capacidad de carga y capacidades turísticas.         
 
       .col-lg-4
         figure
           img(src='@/assets/curso/temas/tema4/img3.png', alt='')
 
-    separador
 
-    #t_4_2   
-    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 4.2 Normas técnicas de agencias de viajes
+    h2.my-5 Normas técnicas de agencias de viajes
+
+    
+    .row.justify-content-center.align-items-center.my-5
+      .col-lg-10
+        .cajon.color-acento-botones.p-4
+          h5.text-center Las NTS (Normas Técnicas Sectoriales) son un conjunto de requisitos y aspectos legales que los prestadores de servicio y las empresas del sector turístico buscan cumplir para obtener la certificación correspondiente. 
+
+          p.text-center Estas NTS permiten garantizar la calidad y competitividad en el sector turístico. Algunos aspectos de las NTS para las agencias de viajes que se pueden encontrar en la página oficial del ministerio (https://www.mincit.gov.co/) son:
 
     .row.my-5
       p En Colombia el Ministerio de Comercio, Industria y Turismo ha planteado estrategias para los diferentes prestadores de servicio en el sector turístico, ya que es necesario realizar la implementación de normas técnicas sectoriales para la ejecución de un turismo sostenible. 
@@ -84,14 +85,6 @@
 
     .tarjeta.slyderA_bg_01.p-4.p-lg-5
       PasosB.color-acento-botones
-        .row(titulo="").justify-content-center
-          .col-lg-7.mt-lg-5.mb-3
-            h4 Normas técnicas sectoriales
-            p Las NTS (Normas Técnicas Sectoriales) son un conjunto de requisitos y aspectos legales que los prestadores de servicio y las empresas del sector turístico buscan cumplir para obtener la certificación correspondiente. Estas NTS permiten garantizar la calidad y competitividad en el sector turístico. Algunos aspectos de las NTS para las agencias de viajes que se pueden encontrar en la página oficial del ministerio <a href="https://www.mincit.gov.co/" target="_blank"> #[strong (https://www.mincit.gov.co/)] </a> son:                    
-
-          .col-10.col-lg-5
-            figure
-              img(src='@/assets/curso/temas/tema4/img4.svg', alt='')
    
         .row(titulo="").justify-content-center
           .col-lg-7.mt-lg-5.mb-3
@@ -195,11 +188,7 @@
             figure
               img(src='@/assets/curso/temas/tema4/img10.svg', alt='')
 
-    separador
-
-    #t_4_3   
-    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 4.3 Normas técnicas de sostenibilidad 
+    h2.my-5 Normas técnicas de sostenibilidad 
 
     .row.my-5
       p En la actualidad, las normas técnicas sectoriales relacionadas estrictamente con el turismo sostenible se encuentran publicadas en la página web del Ministerio de Comercio, Industria y Turismo <a href="https://www.mincit.gov.co/" target="_blank"> #[strong (https://www.mincit.gov.co/).] </a> Entre estas normas, aquellas que se relacionan con los atractivos y recursos naturales y culturales de un destino NTS son:

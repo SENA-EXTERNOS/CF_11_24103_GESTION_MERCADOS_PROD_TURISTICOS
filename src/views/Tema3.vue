@@ -8,7 +8,7 @@
       h1 Sostenibilidad turística
 
     .row.my-5
-      p En la actualidad el turismo tiene una gran demanda, por lo que ha sido necesario que se adecue a los diversos cambios del entorno social.
+      p En la actualidad el turismo tiene una gran demanda, por lo que ha sido necesario que se adecue a los diversos cambios del entorno social. A continuación algunas estrategias 
 
     .row.my-5
       TabsB.color-acento-contenido
@@ -18,7 +18,7 @@
               figure
                 img(src='@/assets/curso/temas/tema3/img2.svg', alt='')
             .col-lg-7.mt-5
-              p El desarrollo científico y tecnológico le ha permitido a la humanidad el avance en diversos campos económicos, pero a su vez, ha hecho que muchas personas no se interesen por el medioambiente, los aspectos naturales y socioculturales de las diferentes poblaciones. Ahora bien, la preocupación por estos aspectos llevó a que en el año 1987 se publicara el Informe Brundtland. 
+              p El desarrollo científico y tecnológico le ha permitido a la humanidad el avance en diversos campos económicos, pero a su vez, ha hecho que muchas personas se interesen por el medioambiente, los aspectos naturales y socioculturales de las diferentes poblaciones. Ahora bien, la preocupación por estos aspectos llevó a que en el año 1987 se publicara el Informe Brundtland.
 
         .py-4.py-md-5(titulo="Nuestro futuro en común" :icono="require('@/assets/curso/temas/tema3/img3.svg')")
           .row.justify-content-center
@@ -26,15 +26,16 @@
               figure
                 img(src='@/assets/curso/temas/tema3/img4.svg', alt='')
             .col-lg-7.mt-5
-              p El Informe Brundtland, también conocido mundialmente como Nuestro Futuro en común #[i (Our Common Future)], fue elaborado por la ONU (Organización de Naciones Unidas) con el fin de desarrollar estrategias económicas y ambientales que se pudiesen impartir a nivel mundial.
+              p El Informe Brundtland, también conocido mundialmente como Nuestro Futuro en Común <i>(Our Common Future)</i>, fue elaborado por la ONU (Organización de Naciones Unidas) con el fin de desarrollar estrategias económicas y ambientales que pudiesen impactar, a nivel mundial.
 
-        .py-4.py-md-5(titulo="Estrategias Económicas" :icono="require('@/assets/curso/temas/tema3/img5.svg')")
+        .py-4.py-md-5(titulo="Informe de Brundtland" :icono="require('@/assets/curso/temas/tema3/img5.svg')")
           .row.justify-content-center
             .col-8.col-lg-2
               figure
                 img(src='@/assets/curso/temas/tema3/img6.svg', alt='')
             .col-lg-7.mt-5
-              p El informe de Brundtland recibe ese nombre por la ministra noruega Gro Harlem Brundtland, artífice de la iniciativa, para quien la sostenibilidad implicaba desarrollo. El desarrollo sostenible planteado por Brundtland se centra en realizar estrategias económicas y ambientales que no tengan repercusiones a futuro, pues busca “satisfacer las necesidades de las generaciones presentes SIN comprometer lasposibilidades de las del futuro para atender sus propias necesidades” (Brundtland, 1987).
+              p El informe de Brundtland recibe ese nombre por la ministra noruega Gro Harlem Brundtland, artífice de la iniciativa, para quien la sostenibilidad implicaba desarrollo. El desarrollo sostenible planteado por Brundtland, se centra en realizar estrategias económicas y ambientales que no tengan repercusiones a futuro, pues busca “satisfacer las necesidades de las generaciones presentes sin comprometer las posibilidades de las del futuro” para atender sus propias necesidades (Brundtland, 1987).
+
 
         .py-4.py-md-5(titulo="Sostenibilidad turística" :icono="require('@/assets/curso/temas/tema3/img7.svg')")
           .row.justify-content-center
@@ -44,14 +45,7 @@
             .col-lg-7.mt-5
               p La sostenibilidad turística es tomada como una herramienta o estrategia de protección empleada en diferentes sectores económicos del mercado actual. Esta tiene como origen la reunión de diferentes países en distintas fechas históricas, entre ellas la Cumbre de la Tierra, una de las más importantes, que se llevó a cabo en Río de Janeiro, Brasil, en 1992. A partir de allí se puede rastrear el origen de la preocupación por un turismo sostenible a nivel mundial.
 
-    separador
-
-    #t_3_1    
-    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 3.1 Criterios de aplicación en servicios turísticos
-
-    .row.my-5
-      p A continuación, se detallan los criterios necesarios para la aplicación de servicios turísticos.
+    h2.my-5 Criterios de aplicación en servicios turísticos
 
     .row.my-5
       ul.lista-ul--color
@@ -98,11 +92,7 @@
               figure
                 img(src='@/assets/curso/temas/tema3/img12.svg', alt='')  
 
-    separador
-
-    #t_3_2
-    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 3.2 Buenas prácticas ambientales 
+    h2.my-5 Buenas prácticas ambientales 
 
     .row.justify-content-center.my-5
       .col-lg-7
@@ -114,11 +104,8 @@
         figure
           img(src='@/assets/curso/temas/tema3/img13.svg', alt='')
 
-    separador
 
-    #t_3_3
-    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 3.3 Programa de gestión ambiental
+    h2.my-5 Programa de gestión ambiental
 
     .row.my-5
       p Los programas de gestión ambiental son utilizados normalmente por las empresas turísticas formales que desean una certificación de calidad; estas empresas, por lo general, buscan beneficios convenientes para su organización. Los programas de gestión ambiental tienen como principal objetivo la integración de metodologías amigables con el ambiente, donde la conservación y preservación de recursos naturales y culturales dependa de la gestión ambiental de las organizaciones turísticas. Es de resaltar que toda empresa emplea metodologías y dinámicas diferentes en sus programas de gestión ambiental, pero en la mayoría de los casos, se deberán desarrollar las siguientes actividades:

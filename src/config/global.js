@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Presentación de productos turísticos',
     descripcionCurso:
-      'Este componente tiene como finalidad dar a conocer los productos turísticos, las características principales y los elementos que abarcan, teniendo en cuenta las dinámicas de conceptualización empleadas para brindar conocimientos al sector turístico, y dándole valor a la gestión de mercados y productos en la industria, mediante la correcta presentación de dichos productos.',
+      'Este componente tiene como finalidad dar a conocer los productos turísticos, las características principales y los elementos que abarcan, teniendo en cuenta las dinámicas de conceptualización empleadas para brindar conocimientos al sector turístico, dándole valor a la gestión de mercados, mediante la correcta presentación de dichos productos.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -39,26 +39,6 @@ export default {
         numero: '1',
         titulo: 'Actividades turísticas ',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.1',
-            titulo: 'Caracterización y características',
-            hash: 't_1_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.2',
-            titulo: 'Clases',
-            hash: 't_1_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.3',
-            titulo: 'Componentes',
-            hash: 't_1_3',
-          },
-        ],
       },
 
       {
@@ -67,38 +47,6 @@ export default {
         numero: '2',
         titulo: 'Itinerarios',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.1',
-            titulo: 'Diseño',
-            hash: 't_2_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.2',
-            titulo: 'Componentes',
-            hash: 't_2_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.3',
-            titulo: 'Elaboración de circuito turístico',
-            hash: 't_2_3',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.4',
-            titulo: 'Plan de acción y contingencia',
-            hash: 't_2_4',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '2.5',
-            titulo: 'Mapa',
-            hash: 't_2_5',
-          },
-        ],
       },
       {
         nombreRuta: 'tema3',
@@ -106,26 +54,6 @@ export default {
         numero: '3',
         titulo: 'Sostenibilidad turística',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.1',
-            titulo: 'Criterios de aplicación en servicios turísticos',
-            hash: 't_3_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.2',
-            titulo: 'Buenas prácticas ambientales',
-            hash: 't_3_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '3.3',
-            titulo: 'Programa de gestión ambiental',
-            hash: 't_3_3',
-          },
-        ],
       },
       {
         nombreRuta: 'tema4',
@@ -133,26 +61,6 @@ export default {
         numero: '4',
         titulo: 'Normatividad turística',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.1',
-            titulo: 'Ley general del turismo',
-            hash: 't_4_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.2',
-            titulo: 'Normas técnicas de agencias de viajes',
-            hash: 't_4_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '4.3',
-            titulo: 'Normas técnicas de sostenibilidad',
-            hash: 't_4_3',
-          },
-        ],
       },
       {
         nombreRuta: 'tema5',
@@ -160,26 +68,6 @@ export default {
         numero: '5',
         titulo: 'Indicadores de gestión turística',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.1',
-            titulo: 'Estructura',
-            hash: 't_5_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.2',
-            titulo: 'Aplicabilidad',
-            hash: 't_5_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '5.3',
-            titulo: 'Plan de acción',
-            hash: 't_5_3',
-          },
-        ],
       },
       {
         nombreRuta: 'tema6',
@@ -187,26 +75,6 @@ export default {
         numero: '6',
         titulo: 'Tarifas de viaje',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '6.1',
-            titulo: 'Clases y soportes',
-            hash: 't_6_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '6.2',
-            titulo: 'Normativas y procedimientos',
-            hash: 't_6_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '6.3',
-            titulo: 'Plan de acción',
-            hash: 't_6_3',
-          },
-        ],
       },
       {
         nombreRuta: 'tema7',
@@ -221,26 +89,6 @@ export default {
         numero: '8',
         titulo: 'Prestadores de servicios turísticos',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            icono: 'far fa-file-alt',
-            numero: '8.1',
-            titulo: 'Clasificación',
-            hash: 't_8_1',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '8.2',
-            titulo: 'Legislación colombiana actual',
-            hash: 't_8_2',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '8.3',
-            titulo: 'Proveedores',
-            hash: 't_8_3',
-          },
-        ],
       },
     ],
     subMenu: [

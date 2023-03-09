@@ -15,11 +15,7 @@
         p El concepto de prestador de servicio turístico agrupa muchos servicios que se brindan al turista en la actualidad, y que con el pasar del tiempo van adquiriendo un valor significativo en las experiencias de los visitantes. 
         p Hace algunos años se tenían en cuenta para los productos turísticos los prestadores de servicios básicos, quienes se encargaban de suplir las necesidades del turista. En la actualidad, las necesidades del turista han aumentado, y con ello las exigencias, convirtiendo al turismo en un sistema complejo en relación con los prestadores de servicios turísticos.
 
-    separador
-
-    #t_8_1    
-    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 8.1 Clasificación
+    h2.my-5 Clasificación
 
     .row.my-5
       .cajon.color-primario.p-4
@@ -27,13 +23,9 @@
 
     .row.my-5
       figure
-        img(src='@/assets/curso/temas/tema8/img2.svg', alt='')     
+        img(src='@/assets/curso/temas/tema8/img2-.svg', alt='')     
 
-    separador
-
-    #t_8_2
-    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 8.2 Legislación colombiana actual
+    h2.my-5 Legislación colombiana actual
 
     .row.my-5
       p Teniendo en cuenta que el turismo es un sector estrictamente organizado, existen normativas que lo controlan, regulando en materia legal tanto a empresas formales como no formales dentro del territorio colombiano. El turismo se encuentra regulado por la Ley 2068 del 2020 y por otro conjunto de leyes que se encargan de los diferentes factores y aspectos turísticos. Ahora bien, para que las leyes puedan ser ejecutadas deben ser establecidas mediante decreto, el cual indica cómo deben aplicarse. Para el caso de los prestadores de servicios, existe el #[strong Decreto 1836 del 2021], el cual tiene como objeto:
@@ -64,11 +56,7 @@
               figure
                 img(src='@/assets/curso/temas/tema8/img5.svg', alt='')               
 
-    separador
-
-    #t_8_3
-    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 8.3 Proveedores
+    h2.my-5 Proveedores
 
     .row.my-5
       p La ley colombiana le exige a la mayoría de los prestadores de servicios turísticos que cumplan con estándares de calidad básicos, dependiendo de cómo se encuentren constituidos. Generalmente, los proveedores de servicios turísticos que deben cumplir con los más altos estándares de calidad son las agencias de viajes que se encuentran regidas por mayores exigencias.

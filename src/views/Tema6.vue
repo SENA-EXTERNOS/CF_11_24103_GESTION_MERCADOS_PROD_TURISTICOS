@@ -10,7 +10,7 @@
     .row.justify-content-center.my-5
       .col-lg-7
         .cajon.color-primario.p-4
-          p Las tarifas de viaje son los elementos más importantes del sector turístico, ya que de estos se deriva todo el desarrollo económico que se ha tenido. Adicionalmente, también se ha logrado una evolución frente a esta actividad; como es frecuente, el desarrollo se encuentra ligado a todas las estancias y circunstancias que generan dinero. 
+          p Las tarifas de viaje son de los elementos más importantes del sector turístico, ya que de estos se deriva todo el desarrollo económico. Adicionalmente, también se ha logrado una evolución frente a esta actividad; como es frecuente, el desarrollo se encuentra ligado a todas las estancias y circunstancias que generan dinero.  
       .col-lg-5
         figure
           img(src='@/assets/curso/temas/tema6/img1.svg', alt='')      
@@ -26,14 +26,10 @@
         .tarjeta.tarjeta-azul2.p-5(titulo="Precios de un viaje")
           p Para determinar los precios o tarifas de un viaje, es necesario que las empresas turísticas cuenten con los medios para financiar los costos de infraestructura y los costos operacionales; de igual manera, también se deben determinar las comisiones y ganancias para los operadores turísticos.
 
-    separador
-
-    #t_6_1    
-    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 6.1 Clases y soportes
+    h2.my-5 Clases y soportes
 
     .row.my-5
-      p En los costos y tarifas que se encuentran en un viaje se pueden identificar los factores y elementos que se deben tener en cuenta a la hora de estandarizar costos y presupuestos. Ahora bien, la clasificación y los soportes en el turismo dependen de la formalidad de los prestadores de servicio, al igual que las tarifas que se brindan en cada uno de estos:
+      p En los costos y tarifas de un viaje se pueden identificar los factores y elementos a tener en cuenta a la hora de estandarizar costos y presupuestos. Ahora bien, la clasificación y los soportes en el turismo dependen de la formalidad de los prestadores de servicio, al igual que las tarifas que se brindan en cada uno de estos:
 
     .row.my-5
       ul.lista-ul--color
@@ -52,7 +48,7 @@
 
               .tarjeta.tarjeta-azul3.p-3(x="8%" y="21%" numero="")
                 h4.mb-2 Las agencias de viaje
-                p En las agencias de viajes las tarifas de los paquetes o servicios ofrecidos tienen gran influencia en su tipología, más aún en las agencias que manejan costos y presupuestos tarifarios al por mayor y al detal, los cuales incluyen impuestos y puntos específicos para cada producto turístico. Las diferentes agencias, ya sean de viajes y turismo, de viajes operativos y de viajes mayoristas, tienen diferentes tarifas de venta, al igual que distintos públicos objetivo.
+                p Las tarifas de los paquetes o servicios ofrecidos tienen gran influencia en su tipología, más aún en las agencias que manejan costos y presupuestos tarifarios al por mayor y al detal, los cuales incluyen impuestos y puntos específicos para cada producto turístico. Las diferentes agencias, ya sean de viajes y turismo, de viajes operativos y de viajes mayoristas, tienen diferentes tarifas de venta, al igual que distintos públicos objetivo.
 
               .tarjeta.tarjeta-azul3.p-3(x="92%" y="21%" numero="")
                 h4.mb-2 Las aerolíneas y empresas de transportes
@@ -64,13 +60,9 @@
 
               .tarjeta.tarjeta-azul3.p-3(x="8%" y="92%" numero="")
                 h4.mb-2 Los destinos 
-                p Los destinos cumplen tendencias cuya implicación se encuentra derivada del posicionamiento del lugar; las tarifas de los lugares dependen de la estacionalidad, al igual que la moda del destino. La monetización de cada país y sus variaciones pueden afectar las tarifas establecidas en los productos turísticos, la cual suele medirse conforme a la valuación o devaluación del dólar. 
+                p Cumplen tendencias cuya implicación se encuentra derivada del posicionamiento del lugar; las tarifas de los lugares dependen de la estacionalidad, al igual que la moda del destino. La monetización de cada país y sus variaciones pueden afectar las tarifas establecidas en los productos turísticos, la cual suele medirse conforme a la valuación o devaluación del dólar.  
 
-    separador
-
-    #t_6_2 
-    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 6.2 Normativas y procedimientos
+    h2.my-5 Normativas y procedimientos
 
     .row.justify-content-center.my-5
       .col-lg-7
@@ -79,20 +71,16 @@
         .bloque-texto-b.color-acento-contenido.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left.color-vineta
-            h4 Se reglamenta el numeral 1 del artículo 53 de la Ley 2068 de 2020, referente a los auxilios, subsidios o apoyos que se brinden a los prestadores de servicios turísticos afectados por declaratoria de estado de emergencia o situación de desastre del orden nacional, departamental o municipal.
+            h4 Se reglamenta el numeral 1 del artículo 53 de la Ley 2068 de 2020, referente a los auxilios, subsidios o apoyos que se brinden a los prestadores de servicios turísticos afectados por declaratoria de estado de emergencia o situación de desastre del orden nacional, departamental o municipal
             br
-            span - Según (Fontur, 2022, p. 1)
+            span (Fontur, 2022, p. 1)
             i.fas.fa-quote-right.color-vineta.ps-5
 
       .col-lg-5
         figure
           img(src='@/assets/curso/temas/tema6/img3.png', alt='')      
 
-    separador
-
-    #t_6_3
-    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 6.3 Plan de acción
+    h2.my-5 Plan de acción
 
     .row.my-5
       .cajon.color-primario.p-4

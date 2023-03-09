@@ -7,7 +7,7 @@
         span 2
       h1 Itinerarios
 
-    .row.justify-content-center.my-5
+    .row.justify-content-center.my-5.mb-5
       .col-lg-10
         .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
           .bloque-texto-g__img(
@@ -16,16 +16,12 @@
           .bloque-texto-g__texto.p-4
             p.mb-0 Los itinerarios en el sector turístico son procesos y procedimientos de actividades secuenciales con un fin en específico; estos se encuentran ligados al cumplimiento de un cronograma de actividades planeadas para el turista. Un itinerario turístico tiene como objetivo principal describir todo lo que se realizará durante el viaje. Este debe ser realizado por planificadores o cualquier prestador turístico que tenga un cronograma de actividades planeadas para el visitante. Por lo general, están relacionados con los viajes, pero también se encuentran ligados a la actividad turística y el cubrimiento de los servicios prestados en la misma.
 
-    separador
-
-    #t_2_1    
-    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 2.1 Diseño
+    h2 Diseño
 
     .row.my-5
       p Para el diseño de itinerarios turísticos se debe tener en cuenta el lugar que se pretende visitar, al igual que definir el número de actividades que se pretende realizar. Existen varios tipos de itinerarios, como lo son los itinerarios de viaje, los de actividades y los turísticos. Estos últimos tienen la capacidad de abarcar los otros tipos de itinerarios existentes, ya que incluyen actividades y servicios que abarcan las necesidades del viajero. Para el diseño y desarrollo de itinerarios turísticos se deben seguir los siguientes pasos:
 
-    .row.justify-content-center.my-5
+    .row.justify-content-center.my-5.mb-5
       SlyderF(columnas="col-lg-6 col-xl-4")
         .tarjeta.tarjeta--verde.p-4
           .row.justify-content-center.mb-3
@@ -67,15 +63,12 @@
             .col-8
               img(src='@/assets/curso/temas/tema2/img7.svg' alt='AvatarTop')
           h4.text-center Orden cronológico
-          p.text-center Diseñar plantilla didáctica donde se plasmen los días de viaje y los horarios de las actividades, al igual que la ubicación y el desarrollo en orden cronológico.
+          p.text-center Diseñar una plantilla didáctica donde se plasmen los días de viaje y los horarios de las actividades, al igual que la ubicación y el desarrollo en orden cronológico.
 
-    separador
+    
+    h2 Componentes  
 
-    #t_2_2  
-    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 2.2 Componentes  
-
-    .row.my-5
+    .row.my-5.mb-5
       p Los elementos característicos con los que se desarrolla un itinerario se encuentran relacionados con su diseño, ya que no existe una plantilla específica porque todas varían dependiendo del autor. Por lo general, un itinerario contiene datos como los días de la estadía en los diferentes atractivos, los horarios establecidos para las actividades propuestas y una descripción de los lugares que se visitarán; algunos pueden contener imágenes relacionadas con los destinos. Suele ser necesario establecer franjas horarias en los itinerarios, con el propósito de garantizar la organización y el cumplimiento de lo planeado. 
       b.mt-3 A continuación se presenta un ejemplo de plantilla simple:
 
@@ -84,11 +77,7 @@
         figure
           img(src='@/assets/curso/temas/tema2/img8.svg', alt='')
 
-    separador
-
-    #t_2_3
-    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 2.3 Elaboración de circuito turístico
+    h2 Elaboración de circuito turístico
 
     .row.justify-content-center.my-5
       .col-lg-7
@@ -100,7 +89,9 @@
           img(src='@/assets/curso/temas/tema2/img9.svg', alt='')        
 
     .row.my-5
-      p A los circuitos turísticos, por lo general, se les da un enfoque temático con relación a los lugares de interés. Estos pueden ser de carácter gastronómico, en circuitos o ferias gastronómicas, al igual que pueden abordar aspectos culturales, naturales, recreativos, educativos e históricos. Para la elaboración de un circuito turístico se deben tener en cuenta los siguientes elementos:
+      p A los circuitos turísticos, por lo general, se les da un enfoque temático con relación a los lugares de interés. Estos pueden ser de carácter gastronómico, al igual que pueden abordar aspectos culturales, naturales, recreativos, educativos e históricos. 
+      p Para la elaboración de un circuito turístico se deben tener en cuenta los siguientes elementos:
+
 
     .row.justify-content-center.my-5
       .col-lg-8
@@ -115,7 +106,7 @@
 
           .row(numero="2" titulo="Atractivos y recursos").p-lg-4.p-2
             .col-md-5.mb-4.mb-md-0
-              p Definir los atractivos y sitios de interés que se desee visitar durante el circuito, es decir, los atractivos o recursos que pueden tener los destinos.
+              p Definir los atractivos y sitios de interés que se desee visitar durante el circuito, es decir, aquellos lugares que estén asociados al circuito elegido.
           
             .col-md-7
               figure
@@ -153,11 +144,8 @@
               figure
                 img(src='@/assets/curso/temas/tema2/img15.svg', alt='')  
 
-    separador
 
-    #t_2_4
-    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 2.4 Plan de acción y contingencia
+    h2.my-5 2.4 Plan de acción y contingencia
 
     .row.my-5
       .cajon.color-acento-botones.p-4
@@ -192,11 +180,8 @@
           .row(titulo="Restauración y recuperación")
             p Esta fase se lleva a cabo en el momento en que se deba ejecutar un plan de contingencia, donde se tienen en cuenta los impactos positivos y negativos generados por la activación y operación del plan.
 
-    separador
 
-    #t_2_5
-    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 2.5 Mapa
+    h2.my-5 Mapa
 
     .row.justify-content-center.my-5
       .col-lg-5

@@ -16,14 +16,10 @@
         figure
           img(src='@/assets/curso/temas/tema5/img1.svg', alt='')           
 
-    separador
-
-    #t_5_1    
-    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 5.1 Estructura
+    h2.my-5 Estructura
 
     .row.my-5
-      p Para definir la estructura de los indicadores es indispensable realizar un enfoque conceptual; en este deberán ser determinados los datos y aspectos medidos por los indicadores. Es necesario también realizar un diagnóstico previo acerca de la finalidad del estudio o de la investigación, pues este diagnóstico definirá las variables de los indicadores. Además, es importante identificar si los indicadores a realizar son internos o externos a la organización que los realiza.  Por lo general, los indicadores se encuentran compuestos por:
+      p Para definir la estructura de los indicadores es indispensable realizar un enfoque conceptual; en este deberán ser determinados los datos y aspectos medidos por los indicadores. Es necesario también realizar un diagnóstico previo acerca de la finalidad del estudio o de la investigación, pues este diagnóstico definirá las variables de los indicadores. Además, es importante identificar si los indicadores a realizar son internos o externos a la organización.  Por lo general, los indicadores se encuentran compuestos por:
 
     .row.justify-content-center.my-5
       .col-lg-6
@@ -68,11 +64,7 @@
                 p #[strong Anexo 1.]
                 p Estructura de los indicadores de gestión turística.
     
-    separador
-
-    #t_5_2
-    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 5.2 Aplicabilidad 
+    h2.my-5 Aplicabilidad 
 
     .row.justify-content-center.my-5
       .col-lg-5
@@ -82,11 +74,7 @@
         p Los indicadores de gestión turística se utilizan generalmente para controlar y dirigir la gestión de un proyecto o plan turístico. Estos se aplican para determinar la organización y el cumplimiento de los objetivos planteados por una organización. Regularmente, estos planes de gestión son ejecutados por el gerente o administrador de la organización, que buscará la manera de evaluar y adquirir resultados respecto a sus indicadores. 
         p Con el paso del tiempo, los procesos administrativos y organizacionales de las empresas turísticas han presentado transformaciones relacionadas con sus negocios.
 
-    separador
-
-    #t_5_3
-    .titulo-segundo.color-acento-contenido(data-aos="fade-up-right")
-      h2 5.3 Plan de acción 
+    h2.my-5 Plan de acción 
 
     .row.my-5
       .cajon.color-acento-contenido.p-4
