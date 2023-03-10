@@ -6,15 +6,16 @@
       .titulo-principal__numero
         span 2
       h1 Itinerarios
-
-    .row.justify-content-center.my-5.mb-5
+    .row.justify-content-center.align-items-center.mb-5
       .col-lg-10
-        .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5
-          .bloque-texto-g__img(
-            :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img1.svg')})`}"
-          )
-          .bloque-texto-g__texto.p-4
-            p.mb-0 Los itinerarios en el sector turístico son procesos y procedimientos de actividades secuenciales con un fin en específico; estos se encuentran ligados al cumplimiento de un cronograma de actividades planeadas para el turista. Un itinerario turístico tiene como objetivo principal describir todo lo que se realizará durante el viaje. Este debe ser realizado por planificadores o cualquier prestador turístico que tenga un cronograma de actividades planeadas para el visitante. Por lo general, están relacionados con los viajes, pero también se encuentran ligados a la actividad turística y el cubrimiento de los servicios prestados en la misma.
+        .bloque-texto-a.color-secundario.p-4.p-md-5.mb-5.fnd-1
+          .row.m-0.align-items-center.justify-content-between
+            .col-lg-4.mb-4.mb-lg-0
+              figure.mb-5
+                img.img-273(src='@/assets/curso/temas/tema2/img1-.svg')
+            .col-lg-8
+              .bloque-texto-a__texto.p-4
+                p.mb-0 Los itinerarios en el sector turístico son procesos y procedimientos de actividades secuenciales con un fin en específico; estos se encuentran ligados al cumplimiento de un cronograma de actividades planeadas para el turista. Un itinerario turístico tiene como objetivo principal describir todo lo que se realizará durante el viaje. Este debe ser realizado por planificadores o cualquier prestador turístico que tenga un cronograma de actividades planeadas para el visitante. Por lo general, están relacionados con los viajes, pero también se encuentran ligados a la actividad turística y el cubrimiento de los servicios prestados en la misma.
 
     h2 Diseño
 
@@ -70,7 +71,7 @@
 
     .row.my-5.mb-5
       p Los elementos característicos con los que se desarrolla un itinerario se encuentran relacionados con su diseño, ya que no existe una plantilla específica porque todas varían dependiendo del autor. Por lo general, un itinerario contiene datos como los días de la estadía en los diferentes atractivos, los horarios establecidos para las actividades propuestas y una descripción de los lugares que se visitarán; algunos pueden contener imágenes relacionadas con los destinos. Suele ser necesario establecer franjas horarias en los itinerarios, con el propósito de garantizar la organización y el cumplimiento de lo planeado. 
-      b.mt-3 A continuación se presenta un ejemplo de plantilla simple:
+      p.mt-3 A continuación se presenta un ejemplo de plantilla simple:
 
     .row.justify-content-center.my-5
       .col-lg-6

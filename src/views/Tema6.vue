@@ -68,6 +68,8 @@
       .col-lg-7
         p Las normativas y procedimientos que se establecen para el sector turístico están basadas en las leyes turísticas de cada país. En Colombia existen normativas turísticas que brindan apoyos económicos a asociaciones relacionadas con el turismo; también existen medidas y decretos que aportan al fomento turístico de aquellos destinos que han sufrido calamidades e impactos negativos por desastres naturales, violencia armada, etc. 
         p Un gran ejemplo de esto es el decreto 1031 del 2021, por medio del cual: 
+
+
         .bloque-texto-b.color-acento-contenido.p-4
           .bloque-texto-b__texto
             i.fas.fa-quote-left.color-vineta
