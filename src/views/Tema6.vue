@@ -75,7 +75,7 @@
             i.fas.fa-quote-left.color-vineta
             h4 Se reglamenta el numeral 1 del artículo 53 de la Ley 2068 de 2020, referente a los auxilios, subsidios o apoyos que se brinden a los prestadores de servicios turísticos afectados por declaratoria de estado de emergencia o situación de desastre del orden nacional, departamental o municipal
             br
-            span (Fontur, 2022, p. 1)
+            span (Fontur, 2022)
             i.fas.fa-quote-right.color-vineta.ps-5
 
       .col-lg-5
