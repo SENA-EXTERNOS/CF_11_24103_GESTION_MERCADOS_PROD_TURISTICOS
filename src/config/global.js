@@ -225,11 +225,6 @@ export default {
     },
     {
       referencia:
-        'Artículo | Andrés, J. M., & Torre, M. G. (2013). <i>Las buenas prácticas ambientales en turismo.</i>',
-      link: 'http://170.210.83.98:8080/jspui/handle/123456789/189',
-    },
-    {
-      referencia:
         'Página web | Cámara de comercio de Bogotá. (s.f.).  <i>Normatividad Registro de Entidades sin Ánimo de Lucro.</i>',
       link:
         'https://www.ccb.org.co/Inscripciones-y-renovaciones/Normativa-Registros-Publicos/Normatividad-Registro-de-Entidades-Sin-Animo-de-Lucro-ESAl',
