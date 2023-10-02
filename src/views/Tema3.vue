@@ -8,7 +8,7 @@
       h1 Sostenibilidad turística
 
     .row.my-5
-      p En la actualidad el turismo tiene una gran demanda, por lo que ha sido necesario que se adecue a los diversos cambios del entorno social. A continuación algunas estrategias 
+      p En la actualidad el turismo tiene una gran demanda, por lo que ha sido necesario que se adecue a los diversos cambios del entorno social. A continuación, algunas estrategias 
 
     .row.my-5
       TabsB.color-acento-contenido
