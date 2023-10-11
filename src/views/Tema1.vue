@@ -49,85 +49,85 @@
       p Los elementos que conforman las actividades turísticas se encuentran relacionados principalmente con el entorno o ambiente turístico, pues es allí, donde se llevan a cabo las diferentes actividades propuestas por los prestadores de servicios o por la comunidad local, dependiendo de la tipología turística que se esté ejecutando. A partir de las condiciones climáticas, de suelo y el tipo de actividad, se pueden determinar acciones y elementos a realizar. Para cada dinámica existen diversos componentes, que pueden variar de acuerdo a la actividad; no obstante, la mayoría de las actividades turísticas abarcan los siguientes elementos:
 
     .row.justify-content-center.my-5
-      .tarjeta.slyderA_bg_01.p-5
+      .tarjeta.slyderA_bg_01.p-3
         SlyderA(tipo="b")
           .row.justify-content-center
-            .col-md-6.mb-4.mb-md-0.my-5
+            .col-md-6.mb-4
               ul.lista-ul--color.centrar-texto
                 li
                   i.fas.fa-check.color-vineta1
                   b Establecer la actividad que se desarrollará con los turistas. 
-            .col-md-5.mb-3
+            .col-md-4 
               figure
                 img(src='@/assets/curso/temas/tema1/img3.svg', alt='')  
 
           .row.justify-content-center
-            .col-md-6.mb-4.mb-md-0.my-5
+            .col-md-6.mb-4
               ul.lista-ul--color.centrar-texto
                 li 
                   i.fas.fa-check.color-vineta1
                   b Definir la cantidad de personas que participarán en la actividad. 
-            .col-md-5.mb-3
+            .col-md-4 
               figure
                 img(src='@/assets/curso/temas/tema1/img4.svg', alt='')  
 
           .row.justify-content-center
-            .col-md-6.mb-4.mb-md-0.my-5
+            .col-md-6.mb-4
               ul.lista-ul--color.centrar-texto
                 li 
                   i.fas.fa-check.color-vineta1
                   b Delimitar el territorio, escenario o establecimiento donde se llevará a cabo la actividad predeterminada. 
-            .col-md-5.mb-5
+            .col-md-4.mb-5
               figure
                 img(src='@/assets/curso/temas/tema1/img5.svg', alt='')  
 
           .row.justify-content-center
-            .col-md-6.mb-4.mb-md-0.my-5
+            .col-md-6.mb-4
               ul.lista-ul--color.centrar-texto
                 li 
                   i.fas.fa-check.color-vineta1
                   b Verificar la infraestructura de los lugares o recursos donde se desarrollarán las dinámicas. 
-            .col-md-5.mb-5
+            .col-md-4.mb-5
               figure
                 img(src='@/assets/curso/temas/tema1/img6.svg', alt='')  
 
           .row.justify-content-center
-            .col-md-6.mb-4.mb-md-0.my-5
+            .col-md-6.mb-4
               ul.lista-ul--color.centrar-texto
                 li 
                   i.fas.fa-check.color-vineta1
                   b Verificar el equipo para la ejecución de las actividades. 
-            .col-md-5.mb-3
+            .col-md-4 
               figure
                 img(src='@/assets/curso/temas/tema1/img7.svg', alt='')  
 
           .row.justify-content-center
-            .col-md-6.mb-4.mb-md-0.my-5
+            .col-md-6.mb-4
               ul.lista-ul--color.centrar-texto
                 li 
                   i.fas.fa-check.color-vineta1
                   b Comunicar las instrucciones y normas de las actividades a desarrollar. 
-            .col-md-5.mb-3
+            .col-md-4 
               figure
                 img(src='@/assets/curso/temas/tema1/img8.svg', alt='')  
 
           .row.justify-content-center
-            .col-md-6.mb-4.mb-md-0.my-5
+            .col-md-6.mb-4
               ul.lista-ul--color.centrar-texto
                 li 
                   i.fas.fa-check.color-vineta1
                   b Preparar al turista para la actividad. 
-            .col-md-5.mb-3
+            .col-md-4 
               figure
                 img(src='@/assets/curso/temas/tema1/img9.svg', alt='')  
 
           .row.justify-content-center
-            .col-md-6.mb-4.mb-md-0.my-5
+            .col-md-6.mb-4
               ul.lista-ul--color.centrar-texto
                 li 
                   i.fas.fa-check.color-vineta1
                   b Iniciar la actividad. 
-            .col-md-5.mb-3
+            .col-md-4
               figure
                 img(src='@/assets/curso/temas/tema1/img10.svg', alt='')  
 

@@ -71,7 +71,7 @@
 
     .row.my-5.mb-5
       p Los elementos característicos con los que se desarrolla un itinerario se encuentran relacionados con su diseño, ya que, no existe una plantilla específica porque todas varían dependiendo del autor. Por lo general, un itinerario contiene datos como los días de la estadía en los diferentes atractivos, los horarios establecidos para las actividades propuestas y una descripción de los lugares que se visitarán; algunos pueden contener imágenes relacionadas con los destinos. Suele ser necesario establecer franjas horarias en los itinerarios, con el propósito de garantizar la organización y el cumplimiento de lo planeado. 
-      p.mt-3 A continuación se presenta un ejemplo de plantilla simple:
+      p.mt-3 A continuación, se presenta un ejemplo de plantilla simple:
 
     .row.justify-content-center.my-5
       .col-lg-6
